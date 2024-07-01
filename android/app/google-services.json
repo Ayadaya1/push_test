@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374502387395",
+    "project_id": "tst-psh-prjct",
+    "storage_bucket": "tst-psh-prjct.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374502387395:android:9168f7a21f2ff5d2adbc76",
+        "android_client_info": {
+          "package_name": "com.example.push_test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWOCbHatJZ4V9ghoEdghTwhj-m6A9BF78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
